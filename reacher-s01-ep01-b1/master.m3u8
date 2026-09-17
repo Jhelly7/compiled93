@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=8509086,RESOLUTION=1920x960
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled93@job-reacher-s01-ep01-b1/reacher-s01-ep01-b1/hls/index.m3u8
